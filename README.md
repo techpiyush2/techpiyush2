@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node Js**
 
-- 👨‍💻 All of my projects are available at [https://techpiyush2.github.io/Portfolio-website/](https://techpiyush2.github.io/Portfolio-website/)
+- 👨‍💻 All of my projects are available at [https://techpiyush2.github.io/Portfolio-website/](https://techpiyush2.github.io)
 
 - 💬 Ask me about **MERN Developement**
 
