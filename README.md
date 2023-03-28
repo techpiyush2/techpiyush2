@@ -3,11 +3,9 @@
 <br/>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 
-- 🔭 I’m currently working on **Backend Projects**
+- 🔭 I’m currently working on **App Development**
 
-- 🌱 I’m currently learning **Node Js**
-
-- 👨‍💻 All of my projects are available at [https://techpiyush2.github.io/Portfolio-website/](https://techpiyush2.github.io)
+- 👨‍💻 All of my projects are available at [https://techpiyush2.github.io/Portfolio-website/](https://piyush.world
 
 - 💬 Ask me about **MERN Developement**
 
