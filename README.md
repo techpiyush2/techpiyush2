@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **MERN Developement**
 
-- 📫 How to reach me **pk409678@gmail.com**
+- 📫 Reach me with mail on  **pk409678@gmail.com**
 
 - 📄 Know about my experiences [Piyush World](https://techpiyush2.github.io)
 
