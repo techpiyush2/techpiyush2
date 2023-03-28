@@ -3,15 +3,17 @@
 <br/>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 
-- 🔭 I’m currently working on **App Development**
+- 🔭 I’m currently working on **Backend Projects**
 
-- 👨‍💻 All of my projects are available at [https://techpiyush2.github.io/Portfolio-website/](https://piyush.world
+- 🌱 I’m currently learning **Node Js**
+
+- 👨‍💻 All of my projects are available at [Click Here](https://techpiyush2.github.io)
 
 - 💬 Ask me about **MERN Developement**
 
 - 📫 How to reach me **pk409678@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12BDH2t-1JYu0ayIGzGu7NiRg7h6qKtOr/view?usp=sharing](https://drive.google.com/file/d/12BDH2t-1JYu0ayIGzGu7NiRg7h6qKtOr/view?usp=sharing)
+- 📄 Know about my experiences [Piyush World](https://techpiyush2.github.io)
 
 - ⚡ Fun fact **I'm a huge fan of Iron Man**
 <h3 align="left">Connect with me:</h3>
