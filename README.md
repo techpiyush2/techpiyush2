@@ -3,9 +3,9 @@
 <br/>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 
-- 🔭 I’m currently working on **Backend Projects**
+- 🔭 I’m currently working on **Full Stack Projects**
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/techpiyush2/)
 
